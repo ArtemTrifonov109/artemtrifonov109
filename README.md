@@ -77,4 +77,12 @@
 
 ---
 
+## 🎯 Достижения
+
+**[Сертификат об обучении. Тестирование ПО](https://github.com/ArtemTrifonov109/artemtrifonov109/blob/main/assets/Trifonov%20A.D.%20QA%20stepik-certificate.pdf)**
+
+**[Рекомендательное письмо](https://github.com/ArtemTrifonov109/artemtrifonov109/blob/main/assets/recommendation_letter_Artem_Trifonov.pdf)**
+
+---
+
 &gt; *«Качество продукта начинается с качества требований. А качество требований — с глубокого понимания пользователя.»*
