@@ -27,14 +27,14 @@
 
 ## 🛠 Технологии и языки
 
-- &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="16" height="16" align="center"&gt; **JIRA**
-- &lt;img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="16" height="16" align="center"&gt; **Postman**
-- &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" height="16" align="center"&gt; **GitHub**
-- &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="16" height="16" align="center"&gt; **Figma**
-- &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16" height="16" align="center"&gt; **MySQL**
-- &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="16" height="16" align="center"&gt; **Confluence**
-- &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="16" height="16" align="center"&gt; **DevTools**
-- &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="16" height="16" align="center"&gt; **Markdown**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="16" height="16"> **JIRA**<br>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="16" height="16"> **Postman**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" height="16"> **GitHub**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="16" height="16"> **Figma**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16" height="16"> **MySQL**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="16" height="16"> **Confluence**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="16" height="16"> **DevTools**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="16" height="16"> **Markdown**
 
 **Стек:**  
 `Manual Testing` · `Functional Testing` · `Usability Testing` · `Acceptance Testing` · `A/B Testing` · `SQL` · `REST API` · `DevTools` · `Jira` · `Confluence` · `Postman` · `Figma` · `Miro` · `Agile/Scrum`
