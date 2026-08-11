@@ -20,29 +20,23 @@
 
 ## 📫 Как связаться со мной
 
-&lt;div id="badges"&gt;
-  &lt;a href="https://t.me/Trifon109" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/Telegram-@Trifon109-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:artemtrifonov2002227@gmail.com" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/Gmail-artemtrifonov2002227@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+[![Telegram](https://img.shields.io/badge/Telegram-@Trifon109-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Trifon109)
+[![Gmail](https://img.shields.io/badge/Gmail-Написать%20письмо-EA4335?style=for-the-badge&logo=gmail)](mailto:artemtrifonov2002227@gmail.com)
 
 ---
 
 ## 🛠 Технологии и языки
 
-&lt;div&gt;
-  &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/&gt;&nbsp;
-  &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" title="confluence" alt="confluence" width="40" height="40"/&gt;&nbsp;
-  &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/&gt;&nbsp;
-  &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/&gt;&nbsp;
-  &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/&gt;&nbsp;
-  &lt;img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="40" height="40"/&gt;&nbsp;
-  &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" title="devtools" alt="devtools" width="40" height="40"/&gt;&nbsp;
-  &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/&gt;&nbsp;
-&lt;/div&gt;
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" height="40" alt="Confluence"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" alt="DevTools"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="Markdown"/>
+</p>
 
 **Стек:**  
 `Manual Testing` · `Functional Testing` · `Usability Testing` · `Acceptance Testing` · `A/B Testing` · `SQL` · `REST API` · `DevTools` · `Jira` · `Confluence` · `Postman` · `Figma` · `Miro` · `Agile/Scrum`
