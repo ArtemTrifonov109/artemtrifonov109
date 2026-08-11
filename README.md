@@ -27,16 +27,14 @@
 
 ## 🛠 Технологии и языки
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" height="40" alt="Confluence"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" alt="DevTools"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="Markdown"/>
-</p>
+- &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="16" height="16" align="center"&gt; **JIRA**
+- &lt;img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="16" height="16" align="center"&gt; **Postman**
+- &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" height="16" align="center"&gt; **GitHub**
+- &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="16" height="16" align="center"&gt; **Figma**
+- &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16" height="16" align="center"&gt; **MySQL**
+- &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="16" height="16" align="center"&gt; **Confluence**
+- &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="16" height="16" align="center"&gt; **DevTools**
+- &lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="16" height="16" align="center"&gt; **Markdown**
 
 **Стек:**  
 `Manual Testing` · `Functional Testing` · `Usability Testing` · `Acceptance Testing` · `A/B Testing` · `SQL` · `REST API` · `DevTools` · `Jira` · `Confluence` · `Postman` · `Figma` · `Miro` · `Agile/Scrum`
