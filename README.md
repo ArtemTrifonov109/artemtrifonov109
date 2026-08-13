@@ -41,7 +41,7 @@
 
 &gt; Примеры тест-кейсов, чек-листов и тест-планов.
 
-🔗 **[Перейти в репозиторий →](https://github.com/artemtrifonov/qa-test-documentation)** *(замените на свою ссылку)*
+🔗 **[Перейти в репозиторий]([https://github.com/artemtrifonov/qa-test-documentation](https://github.com/ArtemTrifonov109/qa-test-documentation))**
 
 ---
 
@@ -49,7 +49,7 @@
 
 &gt; Примеры оформленных баг-репортов.
 
-🔗 **[Перейти в репозиторий →](https://github.com/artemtrifonov/qa-bug-reports)** *(замените на свою ссылку)*
+🔗 **[Перейти в репозиторий](https://github.com/ArtemTrifonov109/qa-bug-reports)**
 
 ---
 
@@ -57,7 +57,7 @@
 
 &gt; Коллекции запросов для тестирования REST API.
 
-🔗 **[Перейти в репозиторий →](https://github.com/artemtrifonov/qa-postman-collection)** *(замените на свою ссылку)*
+🔗 **[Перейти в репозиторий](https://github.com/ArtemTrifonov109/Postman-Collection)**
 
 ---
 
@@ -65,7 +65,7 @@
 
 &gt; Примеры SQL-запросов для выгрузки тестовых данных, проверки целостности данных.
 
-🔗 **[Перейти в репозиторий →](https://github.com/artemtrifonov/qa-sql-scripts)** *(замените на свою ссылку)*
+🔗 **[Перейти в репозиторий](https://github.com/artemtrifonov/qa-sql-scripts)**
 
 ---
 
