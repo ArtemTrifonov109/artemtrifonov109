@@ -65,7 +65,7 @@
 
 &gt; Примеры SQL-запросов для выгрузки тестовых данных, проверки целостности данных.
 
-🔗 **[Перейти в репозиторий](https://github.com/artemtrifonov/qa-sql-scripts)**
+🔗 **[Перейти в репозиторий](https://github.com/ArtemTrifonov109/SQL-scripts)**
 
 ---
 
@@ -82,7 +82,3 @@
 **[Сертификат об обучении. Тестирование ПО](https://github.com/ArtemTrifonov109/artemtrifonov109/blob/main/assets/Trifonov%20A.D.%20QA%20stepik-certificate.pdf)**
 
 **[Рекомендательное письмо](https://github.com/ArtemTrifonov109/artemtrifonov109/blob/main/assets/recommendation_letter_Artem_Trifonov.pdf)**
-
----
-
-&gt; *«Качество продукта начинается с качества требований. А качество требований — с глубокого понимания пользователя.»*
