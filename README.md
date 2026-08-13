@@ -41,7 +41,7 @@
 
 &gt; Примеры тест-кейсов, чек-листов и тест-планов.
 
-🔗 **[Перейти в репозиторий]([https://github.com/artemtrifonov/qa-test-documentation](https://github.com/ArtemTrifonov109/qa-test-documentation))**
+🔗 **[Перейти в репозиторий](https://github.com/ArtemTrifonov109/qa-test-documentation)**
 
 ---
 
