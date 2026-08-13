@@ -2,7 +2,7 @@
 
 ---
 
-## 👨‍💻 Обо мне
+## Обо мне
 
 Я QA Engineer с продуктовым бэкграундом. Стажировка в роли Product Manager научила меня смотреть на качество продукта комплексно: от формулировки требований и acceptance criteria до финальной проверки фич перед релизом.
 
@@ -14,14 +14,14 @@
 
 ---
 
-## 📫 Как связаться со мной
+## Как связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Trifon109-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Trifon109)
 [![Gmail](https://img.shields.io/badge/Gmail-Написать%20письмо-EA4335?style=for-the-badge&logo=gmail)](mailto:artemtrifonov2002227@gmail.com)
 
 ---
 
-## 🛠 Технологии и языки
+## Технологии и языки
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="16" height="16"> **JIRA**<br>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="16" height="16"> **Postman**<br>
@@ -37,7 +37,7 @@
 
 ---
 
-## 📁 Тестовая документация
+## Тестовая документация
 
 &gt; Примеры тест-кейсов, чек-листов и тест-планов.
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 🐞 Баг-репорты
+## Баг-репорты
 
 &gt; Примеры оформленных баг-репортов.
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 📬 Postman-коллекция
+## Postman-коллекция
 
 &gt; Коллекции запросов для тестирования REST API.
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 💾 SQL-скрипты
+## SQL-скрипты
 
 &gt; Примеры SQL-запросов для выгрузки тестовых данных, проверки целостности данных.
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 🎯 Сейчас изучаю
+## Сейчас изучаю
 
 - Автоматизация тестирования (Python + Pytest + Selenium)
 - Нагрузочное тестирование (JMeter)
@@ -77,7 +77,7 @@
 
 ---
 
-## 🎯 Достижения
+## Достижения
 
 **[Сертификат об обучении. Тестирование ПО](https://github.com/ArtemTrifonov109/artemtrifonov109/blob/main/assets/Trifonov%20A.D.%20QA%20stepik-certificate.pdf)**
 
